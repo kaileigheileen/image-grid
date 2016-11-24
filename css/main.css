@@ -110,7 +110,7 @@ img[src*="mars-5.jpg"] {
     padding: 0;
   }
 
-  img[src*="mars-1.jpg"] {
+  img:nth-child(1) {
     float: left;
     width: 66.6666%;
   }
